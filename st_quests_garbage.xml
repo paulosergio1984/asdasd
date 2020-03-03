@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<!-- Butcher -->
+	<string id="hunter_gar_trader_task_1_name">
+		<text>Destroy mutants</text>
+	</string>
+	<string id="hunter_gar_trader_task_1_text">
+		<text>Clean up mutant lair</text>
+	</string>
+	<string id="hunter_gar_trader_task_1_about">
+		<text>I need your help eliminating a few mutants. Here are the coordinates.</text>
+	</string>
+	<string id="hunter_gar_trader_task_1_finish">
+		<text>Good work, here's the money.</text>
+	</string>
+
+	<string id="hunter_gar_trader_task_2_name">
+		<text>Find %s</text>
+	</string>
+	<string id="hunter_gar_trader_task_2_text">
+		<text>The butcher has asked me to bring him %s.</text>
+	</string>
+	<string id="hunter_gar_trader_task_2_about">
+		<text>Some people pay good money for mutant meat.</text>
+	</string>
+	<string id="hunter_gar_trader_task_2_fetch_about">
+		<text>You want to earn some money? The meat of mutants is highly valued among a few 'narrow circles'... Best not to go into detail - I'd just like you to find some %s. What do you say?</text>
+	</string>
+	<string id="hunter_gar_trader_task_2_fetch_finish">
+		<text>Some fine chow you've gathered. Well done, hunter.</text>
+	</string>
+
+	
+<!-- Flea Market -->
+	<string id="baraholka_trader_night_task_1_name">
+		<text>Find the "%s" artefact</text>
+	</string>
+	<string id="baraholka_trader_night_task_1_text">
+		<text>The trader at the flea market wants me to find a %s.</text>
+	</string>
+	<string id="baraholka_trader_night_task_1_about">
+		<text>You want to earn some loot looking for artefacts of the less common variety? I can offer you some good equipment.</text>
+	</string>
+	<string id="baraholka_trader_night_task_1_fetch_about">
+		<text>Feel like earning some loot while looking for rare artefacts? For a "%s", I can offer you some more stuff.</text>
+	</string>
+	<string id="baraholka_trader_night_task_1_fetch_finish">
+		<text>Ah, great work, stalker. Here, for you.</text>
+	</string>
+
+
+</string_table>
