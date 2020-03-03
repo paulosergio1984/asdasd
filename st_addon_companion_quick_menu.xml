@@ -1,0 +1,51 @@
+<? xml version = "1.0" encoding = "windows-1251"?>
+<string_table>
+	<string id = "st_addon_companion_quick_menu_tooFar">
+		<text> Meu esquadrao nao pode me ouvir. Preciso me aproximar ou contata-los via PDA. </text>
+	</string>
+
+	<string id = "st_addon_companion_quick_menu_followMe">
+		<text> SIGA-ME </text>
+	</string>
+	
+	<string id = "st_addon_companion_quick_menu_waitHere">
+		<text> ESPERE AQUI </text>
+	</string>
+	
+	<string id = "st_addon_companion_quick_menu_stopStealth">
+		<text> STOP STEALTH </text>
+	</string>
+	
+	<string id = "st_addon_companion_quick_menu_stealth">
+		<text> invisibilidade </text>
+	</string>
+	
+	<string id = "st_addon_companion_quick_menu_stayClose">
+		<text> FIQUE FECHADO </text>
+	</string>
+	
+	<string id = "st_addon_companion_quick_menu_stayFar">
+		<text> FIQUE LONGE </text>
+	</string>
+	
+	<string id = "st_addon_companion_quick_menu_fireAtWill">
+		<text> FOGO A VONTADE </text>
+	</string>
+	
+	<string id = "st_addon_companion_quick_menu_ignoreCombatButHelpMe">
+		<text> IGNORE COMBATE, MAS ME AJUDE </text>
+	</string>
+	
+	<string id = "st_addon_companion_quick_menu_ignoreCombat">
+		<text> IGNORE COMBAT </text>
+	</string>
+	
+	<string id = "st_addon_companion_quick_menu_doNotLootCorpses">
+		<text> NAO LOOT cadaveres </text>
+	</string>
+	
+	<string id = "st_addon_companion_quick_menu_lootCorpses">
+		<text> LOOT CORPSES </text>
+	</string>
+	
+</string_table>

@@ -1,0 +1,821 @@
+<? xml version = "1.0" encoding = "windows-1251"?>
+<string_table>
+	<! - Bandidos ->
+	<string id = "cc_generic-bandit-meet_hello_1">
+		<text> Comece a falar, amigo. </text>
+	</string>
+	<string id = "cc_generic-bandit-meet_hello_2">
+		<text> Sou todo ouvidos, amigo. </text>
+	</string>
+	<string id = "cc_generic-bandit-meet_hello_3">
+		<text> Ola, </text>
+	</string>
+
+	<string id = "cc_generic-bandit-meet_hide_weapon_1">
+		<text> Pare de acenar com isso! </text>
+	</string>
+	<string id = "cc_generic-bandit-meet_hide_weapon_2">
+		<text> Tire isso da minha frente! </text>
+	</string>
+	<string id = "cc_generic-bandit-meet_hide_weapon_3">
+		<text> Voce se acha dificil ou algo assim? Coldre esse atirador! </text>
+	</string>
+	<string id = "cc_generic-bandit-meet_hide_weapon_4">
+		<text> Se voce quiser voltar em um pedaco, guarde-o! </text>
+	</string>
+	<string id = "cc_generic-bandit-meet_hide_weapon_5">
+		<text> Olha! Eu vou tirar o meu tambem! </text>
+	</string>
+	<string id = "cc_generic-bandit-meet_hide_weapon_6">
+		<text> Nao nos ameace com esse aquecedor! Ja temos o suficiente! </text>
+	</string>
+
+	<string id = "cc_generic-bandit-meet_use_no_default_1">
+		<text> Va, encontre alguem para incomodar, amigo. </text>
+	</string>
+	<string id = "cc_generic-bandit-meet_use_no_default_2">
+		<text> Nao estou me sentindo muito falador agora. </text>
+	</string>
+	<string id = "cc_generic-bandit-meet_use_no_default_3">
+		<text> Bata! </text>
+	</string>
+
+	<string id = "cc_generic-bandit-meet_use_no_fight_1">
+		<text> O que diabos ha de errado com voce? </text>
+	</string>
+	<string id = "cc_generic-bandit-meet_use_no_fight_2">
+		<text> Menos latidos, mais tiros! </text>
+	</string>
+	<string id = "cc_generic-bandit-meet_use_no_fight_3">
+		<text> Voce escolheu um bom momento para conversar ... </text>
+	</string>
+
+	<string id = "cc_generic-bandit-meet_use_no_talk_leader_1">
+		<text> Fale com o grande chefe ruim. </text>
+	</string>
+	<string id = "cc_generic-bandit-meet_use_no_talk_leader_2">
+		<text> Eu nao sou pago para ouvir sua merda. O chefe faz. </text>
+	</string>
+	<string id = "cc_generic-bandit-meet_use_no_talk_leader_3">
+		<text> Se voce precisar de alguma coisa, o chefe estara la. </text>
+	</string>
+
+	<string id = "cc_generic-bandit-meet_use_no_weapon_1">
+		<text> Eu nao estou falando com voce quando voce tem essa coisa na minha cara! </text>
+	</string>
+	<string id = "cc_generic-bandit-meet_use_no_weapon_2">
+		<text> Deixe o atirador de lado e depois conversaremos. </text>
+	</string>
+	<string id = "cc_generic-bandit-meet_use_no_weapon_3">
+		<text> Coldre o atirador ou se perca! </text>
+	</string>
+
+	<! - Ceu claro ->
+	<string id = "cc_generic-csky-meet_hello_1">
+		<text> O que voce precisa de perseguidor? </text>
+	</string>
+	<string id = "cc_generic-csky-meet_hello_2">
+		<text> Stalker, o que voce quer? </text>
+	</string>
+	<string id = "cc_generic-csky-meet_hello_3">
+		<text> O que voce precisa? </text>
+	</string>
+
+	<string id = "cc_generic-csky-meet_hide_weapon_1">
+		<text> Guarde sua arma, cara. </text>
+	</string>
+	<string id = "cc_generic-csky-meet_hide_weapon_2">
+		<text> Pare de brincar! Coldre sua arma! </text>
+	</string>
+	<string id = "cc_generic-csky-meet_hide_weapon_3">
+		<text> Vamos, cara, guarde essa arma! </text>
+	</string>
+
+	<string id = "cc_generic-csky-meet_use_no_talk_leader_1">
+		<text> Fale com o chefe se precisar de algo ... </text>
+	</string>
+	<string id = "cc_generic-csky-meet_use_no_talk_leader_2">
+		<text> Fale com o chefe. </text>
+	</string>
+	<string id = "cc_generic-csky-meet_use_no_talk_leader_3">
+		<text> O chefe esta la. Va, fale com ele. </text>
+	</string>
+
+	<string id = "cc_generic-csky-meet_use_no_weapon_1">
+		<text> Guarde essa arma, entao conversaremos. </text>
+	</string>
+	<string id = "cc_generic-csky-meet_use_no_weapon_2">
+		<text> Coloque a arma no coldre, se voce quiser falar. </text>
+	</string>
+	<string id = "cc_generic-csky-meet_use_no_weapon_3">
+		<text> Primeiro, guarde a arma. </text>
+	</string>
+
+	<string id = "cc_generic-csky-meet_weapon_start_1">
+		<text> Guarde essa arma, entao conversaremos. </text>
+	</string>
+	<string id = "cc_generic-csky-meet_weapon_start_2">
+		<text> Coloque a arma no coldre, se voce quiser falar. </text>
+	</string>
+	<string id = "cc_generic-csky-meet_weapon_start_3">
+		<text> Primeiro, guarde a arma. </text>
+	</string>
+
+	<string id = "cc_generic-csky-meet_weapon_wait_1">
+		<text> Guarde esse pedaco! </text>
+	</string>
+	<string id = "cc_generic-csky-meet_weapon_wait_2">
+		<text> Coldre sua arma. </text>
+	</string>
+	<string id = "cc_generic-csky-meet_weapon_wait_3">
+		<text> Esconda essa arma! </text>
+	</string>
+	<string id = "cc_generic-csky-meet_weapon_wait_4">
+		<text> Eu disse, coloque esse atirador nas suas costas! </text>
+	</string>
+	<string id = "cc_generic-csky-meet_weapon_wait_5">
+		<text> Nenhum negocio engracado. Coldre essa coisa. </text>
+	</string>
+
+	<string id = "cc_generic-csky-meet_stop_1">
+		<text> A Zona parece estar recebendo o pior tipo de gente ultimamente. </text>
+	</string>
+	<string id = "cc_generic-csky-meet_stop_2">
+		<text> Ah, tudo o que voce diz ... ou nao diz. </text>
+	</string>
+	<string id = "cc_generic-csky-meet_stop_3">
+		<text> Oh, entendo, voce nunca aprendeu ingles. </text>
+	</string>
+
+	<string id = "cc_generic-csky-meet_general_wait_1">
+		<text> Quanto tempo mais tenho que esperar? </text>
+	</string>
+	<string id = "cc_generic-csky-meet_general_wait_2">
+		<text> Voce esta tirando uma soneca por la? </text>
+	</string>
+	<string id = "cc_generic-csky-meet_general_wait_3">
+		<text> Ei, acorde! </text>
+	</string>
+	<string id = "cc_generic-csky-meet_general_wait_4">
+		<text> Cara, solte o freio. </text>
+	</string>
+	<string id = "cc_generic-csky-meet_general_wait_5">
+		<text> Voce queria alguma coisa? </text>
+	</string>
+
+	<string id = "cc_generic-csky-meet_general_stop_1">
+		<text> Voce esta lento ou o que? </text>
+	</string>
+	<string id = "cc_generic-csky-meet_general_stop_2">
+		<text> Voce e um nerd de lingua, e isso que voce e. </text>
+	</string>
+	<string id = "cc_generic-csky-meet_general_stop_3">
+		<text> Oh nao! Nem mais um mudo. </text>
+	</string>
+
+	<string id = "cc_generic-csky-meet_general_start_1">
+		<text> Entao, o que voce precisa? </text>
+	</string>
+	<string id = "cc_generic-csky-meet_general_start_2">
+		<text> O que voce quer, afinal? </text>
+	</string>
+	<string id = "cc_generic-csky-meet_general_start_3">
+		<text> O que ha, perseguidor? </text>
+	</string>
+
+	<string id = "cc_generic-csky-meet_comander_wait_1">
+		<text> Diga-me o que voce ja quer. </text>
+	</string>
+	<string id = "cc_generic-csky-meet_comander_wait_2">
+		<text> Fale, sim! </text>
+	</string>
+	<string id = "cc_generic-csky-meet_comander_wait_3">
+		<text> Voce tem algum negocio para mim ou o que? </text>
+	</string>
+	<string id = "cc_generic-csky-meet_comander_wait_4">
+		<text> O que ha com essa paralisacao? </text>
+	</string>
+	<string id = "cc_generic-csky-meet_comander_wait_5">
+		<text> O que voce esta esperando? </text>
+	</string>
+
+	<string id = "cc_generic-csky-meet_comander_stop_1">
+		<text> A Zona parece estar recebendo o pior tipo de gente ultimamente. </text>
+	</string>
+	<string id = "cc_generic-csky-meet_comander_stop_2">
+		<text> Ah, tudo o que voce diz ... ou nao diz. </text>
+	</string>
+	<string id = "cc_generic-csky-meet_comander_stop_3">
+		<text> Oh, entendo, voce nunca aprendeu ingles. </text>
+	</string>
+
+	<string id = "cc_generic-csky-meet_comander_start_1">
+		<text> O que voce precisa de perseguidor? </text>
+	</string>
+	<string id = "cc_generic-csky-meet_comander_start_2">
+		<text> Stalker, o que voce quer? </text>
+	</string>
+	<string id = "cc_generic-csky-meet_comander_start_3">
+		<text> O que voce precisa? </text>
+	</string>
+
+	<! - Dever ->
+	<string id = "cc_generic-dolg-meet_hello_1">
+		<text> O que ha de novo? </text>
+	</string>
+	<string id = "cc_generic-dolg-meet_hello_2">
+		<text> Saudacoes e bem conhecido! </text>
+	</string>
+	<string id = "cc_generic-dolg-meet_hello_3">
+		<text> dinheiro do tempo. Converse! </text>
+	</string>
+
+	<string id = "cc_generic-dolg-meet_hide_weapon_1">
+		<text> Coldre essa arma, amigo. </text>
+	</string>
+	<string id = "cc_generic-dolg-meet_hide_weapon_2">
+		<text> Coldre sua arma. </text>
+	</string>
+	<string id = "cc_generic-dolg-meet_hide_weapon_3">
+		<text> Guarde essa arma, chefe. </text>
+	</string>
+	<string id = "cc_generic-dolg-meet_hide_weapon_7">
+		<text> Pegue aquele homem armado no coldre. </text>
+	</string>
+	<string id = "cc_generic-dolg-meet_hide_weapon_8">
+		<text> Largue essa arma agora! </text>
+	</string>
+	<string id = "cc_generic-dolg-meet_hide_weapon_9">
+		<text> Guarde essa arma, cara! </text>
+	</string>
+	<string id = "cc_generic-dolg-meet_hide_weapon_10">
+		<text> Voce precisa de ajuda para se livrar dessa arma? </text>
+	</string>
+	<string id = "cc_generic-dolg-meet_hide_weapon_11">
+		<text> Cara ... Guarde esse atirador. </text>
+	</string>
+
+	<string id = "cc_generic-dolg-meet_use_no_default_1">
+		<text> Nao tenho vontade de falar. </text>
+	</string>
+	<string id = "cc_generic-dolg-meet_use_no_default_2">
+		<text> Desculpe, mas nao estou com disposicao para conversar. </text>
+	</string>
+	<string id = "cc_generic-dolg-meet_use_no_default_3">
+		<text> Nao posso falar agora. </text>
+	</string>
+
+	<string id = "cc_generic-dolg-meet_use_no_fight_1">
+		<text> Conversaremos outra vez. </text>
+	</string>
+	<string id = "cc_generic-dolg-meet_use_no_fight_2">
+		<text> Mais tarde. Conversaremos mais tarde. </text>
+	</string>
+	<string id = "cc_generic-dolg-meet_use_no_fight_3">
+		<text> Este e um momento ruim para latir. </text>
+	</string>
+
+	<string id = "cc_generic-dolg-meet_use_no_talk_leader_1">
+		<text> Fale com o comandante do esquadrao se voce quiser alguma coisa. </text>
+	</string>
+	<string id = "cc_generic-dolg-meet_use_no_talk_leader_2">
+		<text> Stalker, encaminhe suas perguntas ao comandante. </text>
+	</string>
+	<string id = "cc_generic-dolg-meet_use_no_talk_leader_3">
+		<text> Va ver o comandante. </text>
+	</string>
+
+	<string id = "cc_generic-dolg-meet_use_no_weapon_1">
+		<text> Podemos conversar quando essa arma nao esta na minha cara. </text>
+	</string>
+	<string id = "cc_generic-dolg-meet_use_no_weapon_2">
+		<text> Coloque esse atirador de lado ou va embora! </text>
+	</string>
+	<string id = "cc_generic-dolg-meet_use_no_weapon_3">
+		<text> Falaremos quando voce colocar sua arma no coldre. </text>
+	</string>
+	<string id = "cc_generic-dolg-meet_use_no_weapon_6">
+		<text> Voce esqueceu como colocar uma arma no coldre? </text>
+	</string>
+	<string id = "cc_generic-dolg-meet_use_no_weapon_7">
+		<text> Nao teremos uma conversa como esta. </text>
+	</string>
+	<string id = "cc_generic-dolg-meet_use_no_weapon_8">
+		<text> Se voce nao colocar a arma no coldre, sera a unica coisa com quem podera conversar! </text>
+	</string>
+
+	<! - Ecologistas ->
+	<string id = "cc_generic-ecolog-meet_hello_1">
+		<text> O que voce diz? </text>
+	</string>
+	<string id = "cc_generic-ecolog-meet_hello_2">
+		<text> Estou ouvindo. </text>
+	</string>
+	<string id = "cc_generic-ecolog-meet_hello_3">
+		<text> Bom dia. </text>
+	</string>
+
+	<string id = "cc_generic-ecolog-meet_hide_weapon_1">
+		<text> Ei, agora, isso nao serve. Nao vamos apontar nenhuma arma. </text>
+	</string>
+	<string id = "cc_generic-ecolog-meet_hide_weapon_2">
+		<text> Voce pode colocar a arma no coldre primeiro. </text>
+	</string>
+	<string id = "cc_generic-ecolog-meet_hide_weapon_3">
+		<text> Guarde sua arma primeiro, cara. </text>
+	</string>
+
+	<string id = "cc_generic-ecolog-meet_use_no_default_1">
+		<text> Eu nao tenho nada para falar agora, esta bem? </text>
+	</string>
+	<string id = "cc_generic-ecolog-meet_use_no_default_2">
+		<text> Desculpe, prefiro nao falar agora. </text>
+	</string>
+	<string id = "cc_generic-ecolog-meet_use_no_default_3">
+		<text> Nao me incomode com nenhum bate-papo, por favor. </text>
+	</string>
+
+	<string id = "cc_generic-ecolog-meet_use_no_fight_1">
+		<text> Voce quer mesmo conversar? Abaixe-se, idiota! </text>
+	</string>
+	<string id = "cc_generic-ecolog-meet_use_no_fight_2">
+		<text> Mais tarde! Conversaremos mais tarde! </text>
+	</string>
+	<string id = "cc_generic-ecolog-meet_use_no_fight_3">
+		<text> Voce esta com a cabeca nos ombros? Agora nao! </text>
+	</string>
+
+	<string id = "cc_generic-ecolog-meet_use_no_talk_leader_1">
+		<text> Eu nao tenho nada para falar agora, esta bem? </text>
+	</string>
+	<string id = "cc_generic-ecolog-meet_use_no_talk_leader_2">
+		<text> Desculpe, nao ha nada para falar. </text>
+	</string>
+	<string id = "cc_generic-ecolog-meet_use_no_talk_leader_3">
+		<text> Poupe-me o bate-papo. </text>
+	</string>
+
+	<string id = "cc_generic-ecolog-meet_use_no_weapon_1">
+		<text> Se voce quer falar, abaixe essa arma. </text>
+	</string>
+	<string id = "cc_generic-ecolog-meet_use_no_weapon_2">
+		<text> Esconda esse atirador, cara. Caso contrario, nao tenho negocios com voce. </text>
+	</string>
+	<string id = "cc_generic-ecolog-meet_use_no_weapon_3">
+		<text> Ei, agora, isso nao serve. Nao vamos apontar nenhuma arma. </text>
+	</string>
+
+	<! - Liberdade ->
+	<string id = "cc_generic-freedom-meet_hello_1">
+		<text> Bem, derrame! </text>
+	</string>
+	<string id = "cc_generic-freedom-meet_hello_2">
+		<text> Estou ouvindo, cara. </text>
+	</string>
+	<string id = "cc_generic-freedom-meet_hello_3">
+		<text> O que ha, mano? </text>
+	</string>
+
+	<string id = "cc_generic-freedom-meet_hide_weapon_1">
+		<text> Nao interprete o heroi. Mantenha esse atirador no coldre. </text>
+	</string>
+	<string id = "cc_generic-freedom-meet_hide_weapon_2">
+		<text> Coldre seu atirador, caramba! </text>
+	</string>
+	<string id = "cc_generic-freedom-meet_hide_weapon_3">
+		<text> Paz, cara! Coldre esse canhao seu. </text>
+	</string>
+	<string id = "cc_generic-freedom-meet_hide_weapon_9">
+		<text> Nao puxe nada. E esconda esse atirador, sim? </text>
+	</string>
+	<string id = "cc_generic-freedom-meet_hide_weapon_10">
+		<text> Ja chega! Pare de acenar com a peca. </text>
+	</string>
+	<string id = "cc_generic-freedom-meet_hide_weapon_11">
+		<text> Esconda seu brinquedo agora! </text>
+	</string>
+	<string id = "cc_generic-freedom-meet_hide_weapon_12">
+		<text> Coldre aquele maldito atirador. </text>
+	</string>
+
+	<string id = "cc_generic-freedom-meet_use_no_default_1">
+		<text> Scram! </text>
+	</string>
+	<string id = "cc_generic-freedom-meet_use_no_default_2">
+		<text> Essa conversa nao esta acontecendo, e e o fim dela! </text>
+	</string>
+	<string id = "cc_generic-freedom-meet_use_no_default_3">
+		<text> Nao posso me incomodar em conversar agora. </text>
+	</string>
+
+	<string id = "cc_generic-freedom-meet_use_no_fight_1">
+		<text> Cara, voce e louco! </text>
+	</string>
+	<string id = "cc_generic-freedom-meet_use_no_fight_2">
+		<text> Tem tipo, filmagens e outras coisas, sabe? </text>
+	</string>
+	<string id = "cc_generic-freedom-meet_use_no_fight_3">
+		<text> Ainda nao e hora de conversar. </text>
+	</string>
+
+	<string id = "cc_generic-freedom-meet_use_no_talk_leader_1">
+		<text> Va, fale com o chefe, cara! </text>
+	</string>
+	<string id = "cc_generic-freedom-meet_use_no_talk_leader_2">
+		<text> Duvido que possa lhe dizer algo util. Va, veja o chefe. </text>
+	</string>
+	<string id = "cc_generic-freedom-meet_use_no_talk_leader_3">
+		<text> Deixe-me em paz, cara. Fale com o chefe, ele esta la. </text>
+	</string>
+
+	<string id = "cc_generic-freedom-meet_use_no_weapon_1">
+		<text> Voce planeja filmar ou conversar? Coldre essa arma! </text>
+	</string>
+	<string id = "cc_generic-freedom-meet_use_no_weapon_2">
+		<text> Nao estou interessado em conversar com pessoas que estao apontando uma arma para mim. </text>
+	</string>
+	<string id = "cc_generic-freedom-meet_use_no_weapon_3">
+		<text> Falaremos assim que o atirador estiver no coldre. </text>
+	</string>
+	<string id = "cc_generic-freedom-meet_use_no_weapon_6">
+		<text> Voce esta aqui para filmar ou conversar? </text>
+	</string>
+	<string id = "cc_generic-freedom-meet_use_no_weapon_7">
+		<text> Cara. Sua persuasao em metal, tem que ir! </text>
+	</string>
+	<string id = "cc_generic-freedom-meet_use_no_weapon_8">
+		<text> Voce esta usando esse brinquedo grande para compensar alguma coisa? </text>
+	</string>
+
+	<! - Mercenarios ->
+	<string id = "cc_generic-killer-meet_hello_1">
+		<text> Venha aqui. Eu nao vou morder. </text>
+	</string>
+	<string id = "cc_generic-killer-meet_hello_2">
+		<text> Ei, mano! </text>
+	</string>
+	<string id = "cc_generic-killer-meet_hello_3">
+		<text> Quem e voce? </text>
+	</string>
+
+	<string id = "cc_generic-killer-meet_hide_weapon_1">
+		<text> Voce esconde essa arma! </text>
+	</string>
+	<string id = "cc_generic-killer-meet_hide_weapon_2">
+		<text> Se voce quiser conversar, abaixe a arma e suba devagar! </text>
+	</string>
+	<string id = "cc_generic-killer-meet_hide_weapon_3">
+		<text> Se voce quiser conversar, abaixe a arma e suba devagar! </text>
+	</string>
+	<string id = "cc_generic-killer-meet_hide_weapon_4">
+		<text> Voce esconde essa arma! </text>
+	</string>
+	<string id = "cc_generic-killer-meet_hide_weapon_5">
+		<text> Se voce quiser conversar, abaixe a arma e suba devagar! </text>
+	</string>
+	<string id = "cc_generic-killer-meet_hide_weapon_6">
+		<text> Voce esconde essa arma! </text>
+	</string>
+
+	<string id = "cc_generic-killer-meet_use_no_default_1">
+		<text> Nao estou falando com voce. </text>
+	</string>
+	<string id = "cc_generic-killer-meet_use_no_default_2">
+		<text> Nao estou com vontade de conversar com voce. </text>
+	</string>
+	<string id = "cc_generic-killer-meet_use_no_default_3">
+		<text> Nao estou com disposicao para bater chiclete. </text>
+	</string>
+
+	<string id = "cc_generic-killer-meet_use_no_fight_1">
+		<text> Agora nao! </text>
+	</string>
+	<string id = "cc_generic-killer-meet_use_no_fight_2">
+		<text> Voce e louco? Agora nao! </text>
+	</string>
+	<string id = "cc_generic-killer-meet_use_no_fight_3">
+		<text> Voce nao ve que estamos em batalha? </text>
+	</string>
+
+	<string id = "cc_generic-killer-meet_use_no_talk_leader_1">
+		<text> Nao estou com vontade de tagarelar. Va falar com o comandante. </text>
+	</string>
+	<string id = "cc_generic-killer-meet_use_no_talk_leader_2">
+		<text> Se voce precisar de alguma coisa, va ao comandante. Fale com ele. </text>
+	</string>
+	<string id = "cc_generic-killer-meet_use_no_talk_leader_3">
+		<text> Nao estou com vontade de tagarelar. Va falar com o comandante. </text>
+	</string>
+
+	<string id = "cc_generic-killer-meet_use_no_weapon_1">
+		<text> Eu nao estou falando com voce quando voce tem essa coisa na minha cara! </text>
+	</string>
+	<string id = "cc_generic-killer-meet_use_no_weapon_2">
+		<text> Deixe o atirador de lado e depois conversaremos. </text>
+	</string>
+	<string id = "cc_generic-killer-meet_use_no_weapon_3">
+		<text> Coldre o atirador ou se perca! </text>
+	</string>
+
+	<! - Militar ->
+	<string id = "cc_generic-military-meet_hello_1">
+		<text> Como? </text>
+	</string>
+	<string id = "cc_generic-military-meet_hello_2">
+		<text> O que voce quer? </text>
+	</string>
+	<string id = "cc_generic-military-meet_hello_3">
+		<text> Bem? Estou ouvindo ... </text>
+	</string>
+
+	<string id = "cc_generic-military-meet_hide_weapon_1">
+		<text> Abaixe sua arma. </text>
+	</string>
+	<string id = "cc_generic-military-meet_hide_weapon_2">
+		<text> Guarde sua arma! </text>
+	</string>
+	<string id = "cc_generic-military-meet_hide_weapon_3">
+		<text> Coldre sua arma. </text>
+	</string>
+
+	<string id = "cc_generic-military-meet_use_no_default_1">
+		<text> Nao tenho tempo para conversar. </text>
+	</string>
+	<string id = "cc_generic-military-meet_use_no_default_2">
+		<text> Nao posso ajuda-lo. </text>
+	</string>
+	<string id = "cc_generic-military-meet_use_no_default_3">
+		<text> Deixe-me em paz, major. </text>
+	</string>
+
+	<string id = "cc_generic-military-meet_use_no_fight_1">
+		<text> Falaremos quando a luta terminar. </text>
+	</string>
+	<string id = "cc_generic-military-meet_use_no_fight_2">
+		<text> Saia desta conversa e concentre-se! </text>
+	</string>
+	<string id = "cc_generic-military-meet_use_no_fight_3">
+		<text> Nao e um bom momento para conversar, cara. </text>
+	</string>
+
+	<string id = "cc_generic-military-meet_use_no_talk_leader_1">
+		<text> Va, veja o comandante. </text>
+	</string>
+	<string id = "cc_generic-military-meet_use_no_talk_leader_2">
+		<text> O comandante pode responder as suas perguntas. </text>
+	</string>
+	<string id = "cc_generic-military-meet_use_no_talk_leader_3">
+		<text> Eu tiro. O comandante faz sessoes de perguntas e respostas. </text>
+	</string>
+
+	<string id = "cc_generic-military-meet_use_no_weapon_1">
+		<text> Se voce quiser conversar, coloque a arma no coldre. </text>
+	</string>
+	<string id = "cc_generic-military-meet_use_no_weapon_2">
+		<text> Nao estou falando com voce apontando essa coisa para mim. </text>
+	</string>
+	<string id = "cc_generic-military-meet_use_no_weapon_3">
+		<text> Coldre sua arma se voce quiser conversar. </text>
+	</string>
+
+	<! - Monolito ->
+	<string id = "cc_generic-monolith-meet_hello_1">
+		<text> Nao confie em ninguem alem do Monolito e de seus irmaos. Ninguem. </text>
+	</string>
+	<string id = "cc_generic-monolith-meet_hello_2">
+		<text> Esta muito quieto aqui. </text>
+	</string>
+	<string id = "cc_generic-monolith-meet_hello_3">
+		<text> Acredito que ja estive aqui antes em algum momento. Nao me lembro. </text>
+	</string>
+	<string id = "cc_generic-monolith-meet_hello_4">
+		<text> Estranho ... Tudo aqui e estranho. </text>
+	</string>
+
+	<string id = "cc_generic-monolith-meet_use_no_fight_1">
+		<text> Monolito ... Grande Monolito. </text>
+	</string>
+	<string id = "cc_generic-monolith-meet_use_no_fight_2">
+		<text> Os inimigos estao proximos ... Essa e a vontade do monolito. </text>
+	</string>
+	<string id = "cc_generic-monolith-meet_use_no_fight_3">
+		<text> Monolito ... eu sou seu fiel servo. </text>
+	</string>
+
+	<string id = "cc_generic-monolith-meet_use_no_talk_leader_1">
+		<text> Vamos guardar para nos mesmos. </text>
+	</string>
+	<string id = "cc_generic-monolith-meet_use_no_talk_leader_2">
+		<text> Nao vale a pena falar em vao. </text>
+	</string>
+	<string id = "cc_generic-monolith-meet_use_no_talk_leader_3">
+		<text> Nao quero falar agora. </text>
+	</string>
+
+	<! - Solitarios ->
+	<string id = "cc_generic-stalker-meet_hello_1">
+		<text> Como esta? </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_hello_2">
+		<text> Ei, mano! </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_hello_3">
+		<text> Estou ouvindo ... </text>
+	</string>
+
+	<string id = "cc_generic-stalker-meet_hide_weapon_1">
+		<text> Guarde sua arma, cara. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_hide_weapon_2">
+		<text> Pare de brincar! Coldre sua arma! </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_hide_weapon_3">
+		<text> Vamos, cara, guarde essa arma! </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_hide_weapon_7">
+		<text> Esconda sua arma agora! </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_hide_weapon_6">
+		<text> Pare de acenar com a arma pop! </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_hide_weapon_8">
+		<text> O que ha com o atirador? </text>
+	</string>
+
+	<string id = "cc_generic-stalker-meet_use_no_default_1">
+		<text> Nao estou falando com voce. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_use_no_default_2">
+		<text> Nao estou com vontade de conversar com voce. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_use_no_default_3">
+		<text> Nao estou com disposicao para bater chiclete. </text>
+	</string>
+
+	<string id = "cc_generic-stalker-meet_use_no_fight_1">
+		<text> Nao e hora de gritar, cara. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_use_no_fight_2">
+		<text> Voce e louco? Depois conversaremos! </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_use_no_fight_3">
+		<text> Voce quer conversar com toda essa merda? </text>
+	</string>
+
+	<string id = "cc_generic-stalker-meet_use_no_talk_leader_1">
+		<text> Fale com o chefe se precisar de algo ... </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_use_no_talk_leader_2">
+		<text> Fale com o chefe. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_use_no_talk_leader_3">
+		<text> O chefe esta la. Va, fale com ele. </text>
+	</string>
+
+	<string id = "cc_generic-stalker-meet_use_no_weapon_1">
+		<text> Deixe o atirador de lado e depois conversaremos. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_use_no_weapon_2">
+		<text> Eu nao sou muito falador quando ha uma arma sendo apontada na minha cara. Chocante, hein? </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_use_no_weapon_3">
+		<text> Nao me apetece falar quando voce me ve. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_use_no_weapon_9">
+		<text> Vamos la cara! Guarde essa arma. </text>
+	</string>
+
+	<string id = "cc_generic-stalker-meet_weapon_start_1">
+		<text> Nao seja idiota, coloque sua arma no coldre. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_weapon_start_2">
+		<text> Pare de acenar com a arma, voce tem minha atencao. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_weapon_start_3">
+		<text> Podemos conversar se voce esconder essa arma. </text>
+	</string>
+
+	<string id = "cc_generic-stalker-meet_weapon_wait_1">
+		<text> Por que voce esta segurando essa arma? </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_weapon_wait_2">
+		<text> O que ha com o atirador? </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_weapon_wait_3">
+		<text> Nao ha como falar com armas! </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_weapon_wait_4">
+		<text> Pare de acenar com a arma pop! </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_weapon_wait_5">
+		<text> Esconda sua arma agora! </text>
+	</string>
+
+	<string id = "cc_generic-stalker-meet_wait_1">
+		<text> Estou ouvindo. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_wait_2">
+		<text> Vamos la, derrame o feijao. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_wait_3">
+		<text> Voce nao ve que estou ocupado? Va direto ao ponto. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_wait_4">
+		<text> Voce e timido ou algo assim? Venha, fale comigo. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_wait_5">
+		<text> Vamos la, nao seja timido, fale. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_wait_6">
+		<text> Se voce esta aqui para conversar sobre negocios, faca-o. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_wait_7">
+		<text> Bom, ja esta quieto, fale! </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_wait_8">
+		<text> Acorde e sinta o cheiro do cafe. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_wait_9">
+		<text> Vamos la, fale ja. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_wait_10">
+		<text> Vamos la, comece a compartilhar. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_wait_11">
+		<text> Bem, voce quer algo ou nao? </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_wait_12">
+		<text> Eu tenho que falar por nos dois aqui? </text>
+	</string>
+
+	<string id = "cc_generic-stalker-meet_stop_1">
+		<text> Conversar com um mudo e um ponto discutivel. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_stop_2">
+		<text> Volte quando aprender a falar. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_stop_3">
+		<text> Estou gostando muito dessa conversa. Nao. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_stop_4">
+		<text> Huh. Bom papo que foi. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_stop_5">
+		<text> E um concurso de silencio? Ok, voce venceu. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_stop_6">
+		<text> Maldito se eu souber o que voce quer de mim. </text>
+	</string>
+
+	<string id = "cc_generic-stalker-meet_general_wait_1">
+		<text> Acorde e sinta o cheiro do cafe! </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_general_wait_2">
+		<text> Vamos la, fale ja. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_general_wait_3">
+		<text> Vamos la, comece a compartilhar. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_general_wait_4">
+		<text> Bem, voce quer algo ou nao? </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_general_wait_5">
+		<text> Eu tenho que falar por nos dois aqui? </text>
+	</string>
+
+	<string id = "cc_generic-stalker-meet_general_stop_1">
+		<text> Bom papo que foi. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_general_stop_2">
+		<text> E um concurso de silencio? Ok, voce venceu. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_general_stop_3">
+		<text> Maldito se eu souber o que voce quer de mim. </text>
+	</string>
+
+	<string id = "cc_generic-stalker-meet_general_start_1">
+		<text> Se voce tem algo a dizer, diga. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_general_start_2">
+		<text> Sou todo ouvidos. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_general_start_3">
+		<text> Estou ouvindo. </text>
+	</string>
+
+	<string id = "cc_generic-stalker-meet_comander_wait_1">
+		<text> Voce nao ve que estou ocupado? Va direto ao ponto. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_comander_wait_2">
+		<text> Voce e timido ou algo assim? Venha, fale comigo! </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_comander_wait_3">
+		<text> Vamos la, nao seja timido, fale. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_comander_wait_4">
+		<text> Se voce esta aqui para conversar sobre negocios, faca-o. </text>
+	</string>
+	<string id = "cc_generic-stalker-meet_comander_wait_5">
+		<text> Cara, ja chega, fale! </text>
+	</string>
+</string_table>

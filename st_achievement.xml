@@ -1,0 +1,316 @@
+<? xml version = "1.0" encoding = "windows-1251"?>
+<string_table>
+	
+	<string id = "st_achievement_1_name">
+		<text> Bolsos pesados ??</text>
+	</string>
+	<string id = "st_achievement_1_hint">
+		<text> Os comerciantes estao mais dispostos a vender equipamentos de nivel superior para voce, mesmo que voce nao atenda aos requisitos de boa vontade da faccao. </text>
+	</string>
+	<string id = "st_achievement_1_descr">
+		<text> Sua riqueza se tornou lendaria entre os comerciantes da Zona. Ansiosos pelo seu patrocinio, e mais provavel que eles oferecam seus melhores produtos, independentemente da sua posicao com a faccao deles. </text>
+	</string>
+	<string id = "st_achievement_1_unlock">
+		<text> Voce desbloqueou a conquista "Pesados ??bolsos". </text>
+	</string>
+	
+	<string id = "st_achievement_2_name">
+		<text> Radioterapia </text>
+	</string>
+	<string id = "st_achievement_2_hint">
+		<text> Quando uma tempestade psy ou emissao comeca, ha uma chance de voce nao precisar de abrigo durante sua duracao. </text>
+	</string>
+	<string id = "st_achievement_2_descr">
+		<text> Estranhamente, parte de sua mente ficou subitamente silenciosa, e voce nao tem mais a aproximacao de emissoes ou tempestades psiquicas. De fato, agora voce sente um tipo estranho de paz apos a chegada deles. </text>
+	</string>
+	<string id = "st_achievement_2_unlock">
+		<text> Voce desbloqueou a conquista "Radioterapia". </text>
+	</string>
+	
+	<string id = "st_achievement_3_name">
+		<text> Infopreneur </text>
+	</string>
+	<string id = "st_achievement_3_hint">
+		<text> Os corretores agora pagarao um pequeno bonus adicional por qualquer PDA futuro que voce entregar a eles. </text>
+	</string>
+	<string id = "st_achievement_3_descr">
+		<text> Seja para vender ou comprar, para muitas pessoas as informacoes sao tao valiosas quanto artefatos. Depois de aprender isso com a experiencia, voce podera cobrar mais pelos segredos que vende. </text>
+	</string>
+	<string id = "st_achievement_3_unlock">
+		<text> Voce desbloqueou a conquista "Infopreneur". </text>
+	</string>
+	
+	<string id = "st_achievement_4_name">
+		<text> Duga Free </text>
+	</string>
+	<string id = "st_achievement_4_hint">
+		<text> Os perseguidores sao mais propensos a tentar acessar os caminhos por Yantar e Radar. </text>
+	</string>
+	<string id = "st_achievement_4_descr">
+		<text> Depois de ver o que a experimentacao imprudente trouxe para a Zona, voce tomou uma acao em suas proprias maos. Os caminhos atraves de Yantar e Radar agora estao abertos desde a desativacao da Miracle Machine e do Brain Scorcher. </text>
+	</string>
+	<string id = "st_achievement_4_unlock">
+		<text> Voce desbloqueou a conquista "Duga Free". </text>
+	</string>
+	
+	<string id = "st_achievement_5_name">
+		<text> Bem vestido </text>
+	</string>
+	<string id = "st_achievement_5_hint">
+		<text> Voce e capaz de eliminar mutantes muito mais rapido que o normal. </text>
+	</string>
+	<string id = "st_achievement_5_descr">
+		<text> Com razao, a vida selvagem da Zona tem medo de voce - mais do que uma parte justa caiu em suas maos. Maos experientes contribuem para um trabalho rapido, e voce cresceu de fato. </text>
+	</string>
+	<string id = "st_achievement_5_unlock">
+		<text> Voce desbloqueou a conquista "Bem vestido". </text>
+	</string>
+	
+	<string id = "st_achievement_6_name">
+		<text> Prata ou chumbo </text>
+	</string>
+	<string id = "st_achievement_6_hint">
+		<text> A entrega de perseguidores pode ocasionalmente revelar a localizacao de um segundo esconderijo. </text>
+	</string>
+	<string id = "st_achievement_6_descr">
+		<text> Corpos e carcacas de balas estao espalhados pelas trilhas atras de voce. Voce foi cruel com seus inimigos e, com sua crueldade, eles sabem quem voce e. Aqueles que sobrevivem aos seus horriveis ataques agora estao muito mais dispostos a se separar de seus bens, se isso significa viver para ver outro dia. </text>
+	</string>
+	<string id = "st_achievement_6_unlock">
+		<text> Voce desbloqueou a conquista "Prata ou chumbo". </text>
+	</string>
+	
+	<string id = "st_achievement_7_name">
+		<text> Guerra mecanizada </text>
+	</string>
+	<string id = "st_achievement_7_hint">
+		<text> Os itens de bonus usados ??nos reparos sao mais eficazes. </text>
+	</string>
+	<string id = "st_achievement_7_descr">
+		<text> Agradecido por sua assistencia diligente, o tecnico que voce ajudou a resolver decidiu ensinar uma ou duas coisas sobre manutencao em campo, permitindo que voce faca reparos mais eficientes. </text>
+	</string>
+	<string id = "st_achievement_7_unlock">
+		<text> Voce desbloqueou a conquista "Guerra mecanizada". </text>
+	</string>
+	
+	<string id = "st_achievement_8_name">
+		<text> Turista </text>
+	</string>
+	<string id = "st_achievement_8_hint">
+		<text> Sua profunda familiaridade com a Zona permitiu deduzir o paradeiro de alguns de seus melhores esconderijos. </text>
+	</string>
+	<string id = "st_achievement_8_descr">
+		<text> Apesar dos perigos, voce explorou todas as partes acessiveis da Zona. Das profundezas escuras do Grande Pantano ao labirinto de metal do Truck Cemetery - voce conhece a Zona como a palma da sua mao. </text>
+	</string>
+	<string id = "st_achievement_8_unlock">
+		<text> Voce desbloqueou a conquista "Turista". </text>
+	</string>
+	
+	<string id = "st_achievement_9_name">
+		<text> Pano e Osso </text>
+	</string>
+	<string id = "st_achievement_9_hint">
+		<text> Sua sorte com esconderijos futuros aumentou um pouco. </text>
+	</string>
+	<string id = "st_achievement_9_descr">
+		<text> O que e deles e seu, ou voce gosta de pensar. Voce tem um talento especial para encontrar esconderijos de outras pessoas. Apesar de algum infortunio aqui e ali, voce sente que sua maior parte esta melhorando. </text>
+	</string>
+	<string id = "st_achievement_9_unlock">
+		<text> Voce desbloqueou a conquista "Rag and Bone". </text>
+	</string>
+	
+	<string id = "st_achievement_10_name">
+		<text> Complecionista </text>
+	</string>
+	<string id = "st_achievement_10_hint">
+		<text> Todas as conquistas disponiveis foram desbloqueadas. </text>
+	</string>
+	<string id = "st_achievement_10_descr">
+		<text> Tudo o que ha para alcancar foi alcancado. Voce conhece a Zona melhor do que a Zona conhece a si mesma. E apesar de todas as probabilidades estarem contra voce e todas as ameacas que voce enfrentou - voce ainda permanece invicto. </text>
+	</string>
+	<string id = "st_achievement_10_unlock">
+		<text> Voce desbloqueou a conquista "Complecionista". </text>
+	</string>
+	
+	<string id = "st_achievement_11_name">
+		<text> Pensamento desejoso </text>
+	</string>
+	<string id = "st_achievement_11_hint">
+		<text> Voce desbloqueou "Renegades" como uma faccao jogavel. </text>
+	</string>
+	<string id = "st_achievement_11_descr">
+		<text> Voce fez o que foi preciso para obter conhecimento secreto de um dos perseguidores mais velhos da Zona. Enquanto voce e cetico, ele revelou toda a verdade para voce, o que voce realizou na busca pelo conhecimento nao pode ser negado. </text>
+	</string>
+	<string id = "st_achievement_11_unlock">
+		<text> Voce desbloqueou a conquista "Pensamento positivo". </text>
+	</string>
+	
+	<string id = "st_achievement_12_name">
+		<text> A terra </text>
+	</string>
+	<string id = "st_achievement_12_hint">
+		<text> Os helicopteros Mi-2 aparecerao no lugar dos Mi-24s. </text>
+	</string>
+	<string id = "st_achievement_12_descr">
+		<text> Quanto mais alto eles voam, mais eles caem. Nao querendo desperdicar nenhum equipamento mais caro, os helicopteros da Zona agora parecem ser de uma variedade muito mais fraca. Mas nao sao menos tentadores de destruir. </text>
+	</string>
+	<string id = "st_achievement_12_unlock">
+		<text> Voce desbloqueou a conquista "Down to Earth". </text>
+	</string>
+	
+	<string id = "st_achievement_13_name">
+		<text> Geologo </text>
+	</string>
+	<string id = "st_achievement_13_hint">
+		<text> Os artefatos tem uma chance maior de reaparecer. </text>
+	</string>
+	<string id = "st_achievement_13_descr">
+		<text> Zumbido, zumbido e cuspir - as anomalias da Zona nao o assustam mais. Depois de tantos esforcos bem-sucedidos, voce nao pode deixar de notar que os artefatos parecem mais numerosos do que nunca. </text>
+	</string>
+	<string id = "st_achievement_13_unlock">
+		<text> Voce desbloqueou a conquista "Geologo". </text>
+	</string>
+	
+	<string id = "st_achievement_14_name">
+		<text> Patriarca </text>
+	</string>
+	<string id = "st_achievement_14_hint">
+		<text> Voce pode recrutar mais perseguidores como companheiros. </text>
+	</string>
+	<string id = "st_achievement_14_descr">
+		<text> Suas facanhas em toda a Zona se tornaram lendarias. Agora voce tem uma confianca e um senso de lideranca que somente uma imensa experiencia pode trazer. De forma deliberada ou inconsciente, voce sabe como fazer com que outras pessoas o sigam ate a boca do inferno ... e recuem novamente. </text>
+	</string>
+	<string id = "st_achievement_14_unlock">
+		<text> Voce desbloqueou a conquista "Patriarca". </text>
+	</string>
+	
+	<string id = "st_achievement_15_name">
+		<text> Comida para Leitor de Livros </text>
+	</string>
+	<string id = "st_achievement_15_hint">
+		<text> Os cartoes de memoria serao substituidos por PDAs raros quando gerados. </text>
+	</string>
+	<string id = "st_achievement_15_descr">
+		<text> Atraves de seus proprios esforcos ou lendo sobre os de outros, voce aprendeu muito sobre a Zona e seus muitos habitantes. Talvez voce deva considerar compartilhar um pouco desse conhecimento? </text>
+	</string>
+	<string id = "st_achievement_15_unlock">
+		<text> Voce desbloqueou a conquista "Comida do leitor avido". </text>
+	</string>
+	
+	<string id = "st_achievement_16_name">
+		<text> Prazer infantil </text>
+	</string>
+	<string id = "st_achievement_16_hint">
+		<text> Sua sorte em encontrar itens dentro de caixas aumentou um pouco. </text>
+	</string>
+	<string id = "st_achievement_16_descr">
+		<text> Esteja voce em uma missao importante ou perdendo tempo, as caixas nunca foram protegidas de suas acoes. Desde entao, voce elevou a quebra de caixa a uma forma de arte, abrindo-a com danos minimos ao conteudo interno. </text>
+	</string>
+	<string id = "st_achievement_16_unlock">
+		<text> Voce desbloqueou a conquista "Prazer infantil". </text>
+	</string>
+	
+	<string id = "st_achievement_17_name">
+		<text> Reciclador </text>
+	</string>
+	<string id = "st_achievement_17_hint">
+		<text> Para cada item que voce desmonta, ha poucas chances de adquirir um material extra. </text>
+	</string>
+	<string id = "st_achievement_17_descr">
+		<text> Acreditando que cada parte conta, voce nao pode deixar de dividir o que nao deseja usar de volta em seus componentes basicos. Depois de muita experiencia, voce se tornou mais preciso. Desmontar nunca foi tao facil. </text>
+	</string>
+	<string id = "st_achievement_17_unlock">
+		<text> Voce desbloqueou a conquista "Reciclador". </text>
+	</string>
+	
+	<string id = "st_achievement_18_name">
+		<text> Avidez Artificia </text>
+	</string>
+	<string id = "st_achievement_18_hint">
+		<text> A criacao exige um ou dois componentes a menos. </text>
+	</string>
+	<string id = "st_achievement_18_descr">
+		<text> A criacao de seu proprio equipamento sempre foi um processo empoderador, mas agora sua experiencia crescente no assunto permitiu que voce usasse seus componentes com maior eficiencia. </text>
+	</string>
+	<string id = "st_achievement_18_unlock">
+		<text> Voce desbloqueou a conquista "Artificer Eagerness". </text>
+	</string>
+	
+	<string id = "st_achievement_19_name">
+		<text> Convidado imprevisto </text>
+	</string>
+	<string id = "st_achievement_19_hint">
+		<text> E menos provavel que voce pareca suspeito ou seja descoberto enquanto disfarcado. </text>
+	</string>
+	<string id = "st_achievement_19_descr">
+		<text> Gracas as suas habilidades furtivas e de observacao, seus disfarces sao mais convincentes. Por causa disso, voce e capaz de ficar a vista de todos os seus inimigos com muito mais confianca, sabendo que - com a roupa apropriada - e menos provavel que seus olhares indiscretos se concentrem em voce. </text>
+	</string>
+	<string id = "st_achievement_19_unlock">
+		<text> Voce desbloqueou a conquista "Convidado imprevisivel". </text>
+	</string>
+	
+	<string id = "st_achievement_20_name">
+		<text> Absolver </text>
+	</string>
+	<string id = "st_achievement_20_hint">
+		<text> Voce desbloqueou "Sin" como uma faccao jogavel. </text>
+	</string>
+	<string id = "st_achievement_20_descr">
+		<text> Quando os perseguidores sombrios de Sin surgiram para trazer a visao deles para o mundo, voce ficou contra eles, dando ao mundo a chance de se resolver sem a manipulacao da noosfera. </text>
+	</string>
+	<string id = "st_achievement_20_unlock">
+		<text> Voce desbloqueou a conquista "Absolver". </text>
+	</string>
+	
+	<string id = "st_achievement_21_name">
+		<text> Colaborador </text>
+	</string>
+	<string id = "st_achievement_21_hint">
+		<text> Voce desbloqueou "UNISG" como uma faccao jogavel. </text>
+	</string>
+	<string id = "st_achievement_21_descr">
+		<text> Para melhor ou para pior, voce escolheu seu lado e tomou sua decisao. E dificil dizer se voce estava certo ou errado ... mas voce conseguiu. E alguem acha que voce deveria agradecer por isso. </text>
+	</string>
+	<string id = "st_achievement_21_unlock">
+		<text> Voce desbloqueou a conquista "Colaborador". </text>
+	</string>
+	
+	<string id = "st_achievement_22_name">
+		<text> Cortina de ferro </text>
+	</string>
+	<string id = "st_achievement_22_hint">
+		<text> Voce recebeu um bonus de 50.000 RU por sua contribuicao ao esforco de guerra da faccao. </text>
+	</string>
+	<string id = "st_achievement_22_descr">
+		<text> Sua faccao se tornou uma forca indiscutivel dentro da Zona, com alguns grupos menores ate a considerando uma superpotencia local. Alguns dos vastos recursos que agora estao a disposicao de sua faccao certamente aparecerao em breve. </text>
+	</string>
+	<string id = "st_achievement_22_unlock">
+		<text> Voce desbloqueou a conquista "Cortina de ferro". </text>
+	</string>
+	
+	<string id = "st_achievement_23_name">
+		<text> Espirito obscuro </text>
+	</string>
+	<string id = "st_achievement_23_hint">
+		<text> Sua classificacao foi bastante aumentada. </text>
+	</string>
+	<string id = "st_achievement_23_descr">
+		<text> Voce sobreviveu profundamente a eventos que matariam muitos perseguidores varias vezes. Alguns perseguidores estao comecando a se perguntar se voce pode mesmo ser morto. </text>
+	</string>
+	<string id = "st_achievement_23_unlock">
+		<text> Voce desbloqueou a conquista "Espirito obscuro". </text>
+	</string>
+	
+	<string id = "st_achievement_24_name">
+		<text> Invictus </text>
+	</string>
+	<string id = "st_achievement_24_hint">
+		<text> Agora voce pode fazer uma captura de tela e se gabar dessa conquista para seus colegas perseguidores. </text>
+	</string>
+	<string id = "st_achievement_24_descr">
+		<text> Apesar dos desafios, provacoes e vicissitudes lancados no seu caminho, voce provou ser um sucesso retumbante. Esta claro que nao ha mais nada na Zona para desafia-lo, e que talvez seja hora - talvez com uma pontada de tristeza - de avancar para coisas ainda maiores. </text>
+	</string>
+	<string id = "st_achievement_24_unlock">
+		<text> Voce desbloqueou a conquista "Invictus". </text>
+	</string>
+	
+</string_table>

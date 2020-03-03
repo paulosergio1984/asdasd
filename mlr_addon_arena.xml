@@ -1,0 +1,160 @@
+<? xml version = "1.0" encoding = "windows-1251"?>
+<string_table>
+	<string id = "look_for_cs_history_part_4_2_0">
+		<text> Ola, Gatekeeper. </text>
+	</string>
+	<string id = "look_for_cs_history_part_4_2_1">
+		<text> Ola. Voce esta indo para Limansk? Se nao fosse por Leshiy ... De qualquer forma, seja bem-vindo. Vou precisar do dinheiro de voce ... E tome cuidado para nao ser pego pelas nossas patrulhas - elas nao fazem parte do acordo. </text>
+	</string>
+
+	<string id = "look_for_cs_history_part_4_1_0">
+		<text> Aqui esta o dinheiro. </text>
+	</string>
+	<string id = "look_for_cs_history_part_4_1_1">
+		<text> Muito bem. Vou avisar o relogio na ponte. Quando voce chegar la, quem deve falar e "Gatekeeper". Apenas seja calmo e tente encontrar algo que possa esclarecer o desaparecimento de Scar. </text>
+	</string>
+
+	<string id = "look_for_cs_history_part_3_2_0">
+		<text> Leshiy, certo? </text>
+	</string>
+	<string id = "look_for_cs_history_part_3_2_1">
+		<text> Sim. Precisa de um guia ou voce quer mais alguma coisa? </text>
+	</string>
+	<string id = "look_for_cs_history_part_3_2_2">
+		<text> Bem, eu sei algo sobre o seu passado. Eu poderia usar sua ajuda, merc. </text>
+	</string>
+	<string id = "look_for_cs_history_part_3_2_3">
+		<text> Uh ... Que tipo de ajuda? </text>
+	</string>
+	<string id = "look_for_cs_history_part_3_2_4">
+		<text> Voce poderia conversar com os mercenarios vigiando a ponte na Floresta Vermelha? Eu preciso chegar a Limansk. Entendo que isso pode ser inconveniente, mas posso prometer que tentarei encontrar qualquer pista deixada pela mercenaria Scar. </text>
+	</string>
+	<string id = "look_for_cs_history_part_3_2_5">
+		Hm. Voce precisa entender que eu nao faco parte do Sindicato ha muito tempo ... Nem tenho certeza de quem comanda o grupo na ponte. Tenho algumas conexoes, mas vou precisar de algum tempo para isso ... e algum dinheiro. Cento e cinquenta mil, nada menos. </text>
+	</string>
+
+	<string id = "look_for_cs_history_part_1_1_0">
+		<text> Eu ouvi algo sobre a historia do seu grupo. Eu gostaria de investigar. </text>
+	</string>
+	<string id = "look_for_cs_history_part_1_1_1">
+		<text> Voce esta procurando algo, ou o que? Hah, ouca. Voce praticamente nao tem chance de sobreviver nessas areas - mas mesmo se conseguir, encontrar informacoes sobre a nossa estadia nao sera exatamente um passeio no parque. </text>
+	</string>
+	<string id = "look_for_cs_history_part_1_1_2">
+		<text> Voce nao esta interessado? Ou ha algo que voce deseja em troca? </text>
+	</string>
+	<string id = "look_for_cs_history_part_1_1_3">
+		<text> Hmm ... Voce pode nos ajudar a tirar um maco de sugadores de sangue no pantano, e talvez entao eu compartilhe o que tenho com voce. </text>
+	</string>
+	<string id = "look_for_cs_history_part_1_1_4">
+		<text> Tudo bem, me de as coordenadas. </text>
+	</string>
+	<string id = "look_for_cs_history_part_1_1_5">
+		<text> La vai voce - divirta-se. </text>
+	</string>
+
+	<string id = "look_for_cs_history_part_1_2_0">
+		<text> Esta feito. Que informacoes voce tem? </text>
+	</string>
+	<string id = "look_for_cs_history_part_1_2_1">
+		<text> Entao eu ouvi - muito bem. Voce e um bom lutador e eu confio em voce, entao eu darei o que voce precisa. Os meninos provavelmente lhe contaram sobre o assalto naquela ponte maldita em Limansk. Caso voce nao saiba ... Naquela epoca, na cidade - e nos arredores da Floresta Vermelha - os mercenarios eram responsaveis ??por tudo. E claro que eles nao vao simplesmente abaixar a ponte para voce, mas ha um participante ativo nesses eventos - eles o chamam de Forester. Foi ele, junto com Scar, que de alguma forma concordou que um grupo de "padroes" abaixaria a ponte enquanto nossos combatentes os protegiam da outra margem. Aqui, darei informacoes sobre uma rota entre os Armazens do Exercito e a Floresta Vermelha - use-a para encontrar Forester e conversar com ele. E aqui esta uma recompensa pela limpeza do sugador de sangue. </text>
+	</string>
+	<string id = "look_for_cs_history_part_1_2_2">
+		<text> Obrigado. </text>
+	</string>
+
+	<string id = "mlr_inventory_box_unuse">
+		<text> Stash bloqueado </text>
+	</string>
+
+	<string id = "totaliz_helper_mlr_text">
+		<text> Para uma perspectiva diferente da area, pressione a tecla til ou \ para abrir o console e digite: demo_record 1. A camera e controlada usando as teclas W, A, S e D junto com CTRL. Para sair, pressione a tecla ESC. </text>
+	</string>
+	
+	<string id = "st_pda_mlr_descr">
+		<text> Um PDA contendo informacoes possiveis sobre rotas entre areas diferentes. O historico de mensagens esta inacessivel devido a presenca de um bloqueio de senha. </text>
+	</string>
+	<string id = "st_new_path_mlr">
+		<text> Uma rota entre duas areas tornou-se acessivel. </text>
+	</string>
+
+	<string id = "killer_bridge_trader_mlr_task_1_name">
+		<text> Encontre% s </text>
+	</string>
+	<string id = "killer_bridge_trader_mlr_task_1_text">
+		<text> Os mercenarios pediram que eu pegasse% s. </text>
+	</string>
+	<string id = "killer_bridge_trader_mlr_task_1_about">
+		<text> Nossos soldados precisam de algum equipamento, voce pode obte-lo para nos? </text>
+	</string>
+	<string id = "killer_bridge_trader_mlr_task_1_fetch_about">
+		<text> Nossos soldados precisam de% s, voce vai recupera-lo para nos? </text>
+	</string>
+	<string id = "killer_bridge_trader_mlr_task_1_fetch_finish">
+		<text> Obrigado, aqui esta sua recompensa. </text>
+	</string>
+
+	<string id = "killer_bridge_trader_mlr_task_2_name">
+		<text> Encontre um artefato% s </text>
+	</string>
+	<string id = "killer_bridge_trader_mlr_task_2_text">
+		<text> Um mercenario precisa de% s. </text>
+	</string>
+	<string id = "killer_bridge_trader_mlr_task_2_about">
+		<text> Nossos soldados podem usar alguns artefatos, sera dificil passar por Limansk sem eles. Voce poderia nos ajudar a encontrar um? </text>
+	</string>
+	<string id = "killer_bridge_trader_mlr_task_2_fetch_about">
+		<text> Nossos soldados podem usar alguns artefatos, sera dificil passar por Limansk sem eles. Voce poderia nos ajudar a encontrar um% s? </text>
+	</string>
+	<string id = "killer_bridge_trader_mlr_task_2_fetch_finish">
+		<text> Muito obrigado. Aqui, pegue isso. </text>
+	</string>
+
+	<string id = "task_look_for_cs_history_part_1_1">
+		<text> Encontre e mate os sugadores de sangue </text>
+	</string>
+	<string id = "task_look_for_cs_history_part_1_2">
+		<text> Retornar ao Cold </text>
+	</string>
+	<string id = "task_look_for_cs_history_part_1_3">
+		<text> Entao, ele tem medo de me enviar "desse jeito", mas tudo bem se eu vou lutar contra sugadores de sangue do pantano? Vendedores baratos, mesmo na Clear Sky, eu vejo .. </text>
+	</string>
+
+	<string id = "task_look_for_cs_history_part_2_1">
+		<text> Seguindo as trilhas do Clear Sky: converse com o Forester </text>
+	</string>
+	<string id = "task_look_for_cs_history_part_descr_2_1">
+		<text> Cold me disse que o participante imediato desses eventos e Forester e me deu suas coordenadas. Eu tenho que falar com ele e chegar a Limansk. </text>
+	</string>
+
+	<string id = "task_look_for_cs_history_part_3_1">
+		<text> Seguindo as trilhas do Clear Sky: encontre Leshiy </text>
+	</string>
+	<string id = "task_look_for_cs_history_part_3_2">
+		<text> Seguindo as trilhas do Clear Sky: fale com Leshiy </text>
+	</string>
+	<string id = "task_look_for_cs_history_part_descr_3_1">
+		<text> Bem, voltando as forcas armadas. Acontece que a figura principal daquela batalha pela ponte ficou debaixo do meu nariz esse tempo todo. </text>
+	</string>
+	<string id = "task_look_for_cs_history_part_descr_3_2">
+		<text> Eu so tenho que chegar a um acordo com o proprio Leshiy, espero que isso termine minha busca. </text>
+	</string>
+
+	<string id = "task_look_for_cs_history_part_4_1">
+		<text> Seguindo as trilhas do Clear Sky: colete 150000 RU e leve-o para Leshiy </text>
+	</string>
+	<string id = "task_look_for_cs_history_part_4_3">
+		<text> Seguindo as trilhas do Clear Sky: va a uma reuniao com o Gatekeeper </text>
+	</string>
+	<string id = "task_look_for_cs_history_part_4_4">
+		<text> Seguindo as trilhas do Clear Sky: fale com o Gatekeeper </text>
+	</string>
+
+	<string id = "task_look_for_cs_history_part_descr_4_1">
+		<text> Finalmente, logo estarei do outro lado da ponte e os recados terminarao. </text>
+	</string>
+
+	<string id = "st_bridge_is_open_message">
+		<text> Gatekeeper: \ nVejo alguem. Ei, perseguidor! Venha aqui, tenho algumas palavras para voce. </text>
+	</string>
+
+</string_table>
